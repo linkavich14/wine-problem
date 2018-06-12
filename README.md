@@ -1,4 +1,4 @@
-# wine-problem
+# Simple Wine Problem
 
 A wine is made up from grapes of different sources after being blended at the winery.  These grapes have different properties such as year, variety (e.g. Chardonnay, Pinot Noir) and region (e.g. Yarra Valley, Mornington Peninsula, Macedon Ranges, etc).  When bottling a wine, the winery needs to know the percentage breakdown of these properties so they know what they can legally claim on the wine's label.
 
